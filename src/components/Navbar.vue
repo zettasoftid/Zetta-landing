@@ -36,12 +36,12 @@
           </li>
         </ul>
       </div>
-      <button
+      <a
         href="https://wa.me/6285156012600"
         type="button"
         class="btn contact-us">
         Contact us
-      </button>
+      </a>
     </div>
   </nav>
 </template>

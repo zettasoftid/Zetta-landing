@@ -10,16 +10,16 @@
             A website that serves services in the form of Development<br />
             to Web Scraping services
           </p>
-          <button
+          <a
             href="https://api.whatsapp.com/send?phone=6285156012600&text=Halo%20Admin!%0ASaya%20ingin%20order%20jasa%20Anda"
             class="btn btn-primary mt-5">
             I need data
-          </button>
-          <button
+          </a>
+          <a
             href="https://wa.me/6285156012600"
             class="btn btn-outline-secondary mt-5 ms-3">
             I need web development
-          </button>
+          </a>
         </div>
         <div class="col-7 me-4 header-right">
           <img src="../assets/foto/banner.png" alt="logo" />

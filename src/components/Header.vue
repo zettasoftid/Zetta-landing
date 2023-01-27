@@ -11,12 +11,12 @@
             to Web Scraping services
           </p>
           <a
-            href="https://api.whatsapp.com/send?phone=6285156012600&text=Halo%20Admin!%0ASaya%20ingin%20order%20jasa%20Anda"
+            href="https://api.whatsapp.com/send?phone=6285156012600"
             class="btn btn-primary mt-5">
             I need data
           </a>
           <a
-            href="https://wa.me/6285156012600"
+            href="https://api.whatsapp.com/send?phone=6285156012600"
             class="btn btn-outline-secondary mt-5 ms-3">
             I need web development
           </a>

@@ -11,7 +11,11 @@
             A website that serves services in the form of Development <br />
             to Web Scraping services
           </p>
-          <a href="#" class="btn btn-contact">Hire us!</a>
+          <a
+            href="https://api.whatsapp.com/send?phone=6285156012600"
+            class="btn btn-contact"
+            >Hire us!</a
+          >
         </div>
       </div>
     </div>

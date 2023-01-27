@@ -1,11 +1,21 @@
 <template>
   <div class="container my-5">
     <div class="text">You can see our media:</div>
-    <img src="../assets/svg/Github.svg" alt="github zetta" />
-    <img src="../assets/svg/Instagram.svg" alt="instagram zetta" />
-    <img src="../assets/svg/LinkedIn.svg" alt="instagram zetta" />
-    <img src="../assets/svg/Medium.svg" alt="instagram zetta" />
-    <img src="../assets/svg/YouTube.svg" alt="instagram zetta" /> />
+    <a href="https://github.com/zettaSoftware"
+      ><img src="../assets/svg/Github.svg" alt="github zetta"
+    /></a>
+    <a href="https://www.instagram.com/zettasoft_id/"
+      ><img src="../assets/svg/Instagram.svg" alt="Instagram zetta"
+    /></a>
+    <a href="https://www.linkedin.com/in/zetta-indonesia/"
+      ><img src="../assets/svg/LinkedIn.svg" alt="LinkedIn zetta"
+    /></a>
+    <a href="https://medium.com/@zettasoft.id"
+      ><img src="../assets/svg/Medium.svg" alt="Medium zetta"
+    /></a>
+    <a href="https://www.youtube.com/@zetta3379"
+      ><img src="../assets/svg/YouTube.svg" alt="Youtube zetta"
+    /></a>
   </div>
 </template>
 

@@ -8,27 +8,23 @@
           <div class="">
             <div class="list-space">
               <img
-                src="http://api.elements.buildwithangga.com/storage/files/2/assets/Header/Header2/Header-2-3.png"
-                alt="" />
+                src="../assets/foto/Z 1.png"
+                alt=""
+                style="width: 80px; height: 80px"
+                align-items="left" />
             </div>
             <nav class="list-unstyled">
               <li class="list-space">
                 <a href="" class="list-menu">Home</a>
               </li>
               <li class="list-space">
-                <a href="" class="list-menu">About</a>
+                <a href="" class="list-menu">Product</a>
               </li>
               <li class="list-space">
-                <a href="" class="list-menu">Features</a>
+                <a href="" class="list-menu">Learn</a>
               </li>
               <li class="list-space">
-                <a href="" class="list-menu">Pricing</a>
-              </li>
-              <li class="list-space">
-                <a href="" class="list-menu">Testimonial</a>
-              </li>
-              <li class="list-space">
-                <a href="" class="list-menu">Help</a>
+                <a href="" class="list-menu">Community</a>
               </li>
             </nav>
           </div>
@@ -37,19 +33,19 @@
           <h2 class="footer-text-title text-white">Product</h2>
           <nav class="list-unstyled">
             <li class="list-space">
-              <a href="" class="list-menu">Real Time Analytic</a>
+              <a href="" class="list-menu">Web Scraping</a>
             </li>
             <li class="list-space">
-              <a href="" class="list-menu">Easy to Operate</a>
+              <a href="" class="list-menu">Smart Browser</a>
             </li>
             <li class="list-space">
-              <a href="" class="list-menu">Full Secured</a>
+              <a href="" class="list-menu">UI/UX Design</a>
             </li>
             <li class="list-space">
-              <a href="" class="list-menu">Analytic Tool</a>
+              <a href="" class="list-menu">Web Development</a>
             </li>
             <li class="list-space">
-              <a href="" class="list-menu">Story</a>
+              <a href="" class="list-menu">Mobile Development</a>
             </li>
           </nav>
         </div>
@@ -63,7 +59,7 @@
               <a href="" class="list-menu">Blog</a>
             </li>
             <li class="list-space">
-              <a href="" class="list-menu">Culture</a>
+              <a href="" class="list-menu">Community</a>
             </li>
             <li class="list-space">
               <a href="" class="list-menu">Security</a>
@@ -80,7 +76,7 @@
               <a href="" class="list-menu">Help Center</a>
             </li>
             <li class="list-space">
-              <a href="" class="list-menu">Server Status</a>
+              <a href="" class="list-menu">Contact us</a>
             </li>
           </nav>
         </div>
@@ -205,7 +201,7 @@
         </nav>
         <nav
           class="d-flex flex-lg-row flex-column align-items-center justify-content-center">
-          <p style="margin: 0">Copyright © 2021 Analystic Max</p>
+          <p style="margin: 0">Copyright © 2023 Zetta Agency Indonesia</p>
         </nav>
       </div>
     </div>

@@ -37,7 +37,7 @@
         </ul>
       </div>
       <a
-        href="https://wa.me/6285156012600"
+        href="https://api.whatsapp.com/send?phone=6285156012600"
         type="button"
         class="btn contact-us">
         Contact us

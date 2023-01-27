@@ -20,7 +20,7 @@
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
           </p>
-          <a href="#" class="btn btn-content">Go somewhere</a>
+          <a href="#" class="btn btn-content">Learn more</a>
         </div>
       </div>
       <div class="card my-4 webdev" style="width: 18rem">
@@ -34,7 +34,7 @@
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
           </p>
-          <a href="#" class="btn btn-content">Go somewhere</a>
+          <a href="#" class="btn btn-content">Learn more</a>
         </div>
       </div>
       <div class="card my-4 mobiledev" style="width: 18rem">
@@ -48,7 +48,7 @@
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
           </p>
-          <a href="#" class="btn btn-content">Go somewhere</a>
+          <a href="#" class="btn btn-content">Learn more</a>
         </div>
       </div>
     </div>

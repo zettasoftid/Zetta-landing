@@ -19,7 +19,7 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
             orci quis massa non mi, sed iaculis leo aenean.
           </p>
-          <a href="#" class="btn btn-content">Go somewhere</a>
+          <a href="#" class="btn btn-content">Learn more</a>
         </div>
       </div>
       <div class="card my-4 web-analysis" style="width: 18rem">
@@ -33,7 +33,7 @@
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
             orci quis massa non mi, sed iaculis leo aenean.
           </p>
-          <a href="#" class="btn btn-content mt-4">Go somewhere</a>
+          <a href="#" class="btn btn-content mt-4">Learn more</a>
         </div>
       </div>
       <div class="card my-4 smart-browser" style="width: 18rem">
@@ -47,7 +47,7 @@
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
           </p>
-          <a href="#" class="btn btn-content mt-4">Go somewhere</a>
+          <a href="#" class="btn btn-content mt-4">Learn more</a>
         </div>
       </div>
       <br />
@@ -62,7 +62,7 @@
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
           </p>
-          <a href="#" class="btn btn-content">Go somewhere</a>
+          <a href="#" class="btn btn-content">Learn more</a>
         </div>
       </div>
       <div class="card my-4 webdev" style="width: 18rem">
@@ -76,7 +76,7 @@
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
           </p>
-          <a href="#" class="btn btn-content">Go somewhere</a>
+          <a href="#" class="btn btn-content">Learn more</a>
         </div>
       </div>
       <div class="card my-4 mobiledev" style="width: 18rem">
@@ -90,7 +90,7 @@
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
           </p>
-          <a href="#" class="btn btn-content">Go somewhere</a>
+          <a href="#" class="btn btn-content">Learn more</a>
         </div>
       </div>
     </div>

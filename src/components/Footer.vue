@@ -8,7 +8,7 @@
           <div class="">
             <div class="list-space">
               <img
-                src="../assets/foto/Z 1.png"
+                src="../assets/foto/logo.png"
                 alt=""
                 style="width: 80px; height: 80px"
                 align-items="left" />

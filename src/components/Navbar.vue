@@ -3,7 +3,7 @@
     <div class="container-xxl">
       <a class="navbar-brand" href="#"
         ><img
-          src="../assets/foto/Z 1.png"
+          src="../assets/foto/logo.png"
           alt="logo"
           height="50px"
           width="50px"

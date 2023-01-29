@@ -10,13 +10,11 @@
             A website that serves services in the form of Development<br />
             to Web Scraping services
           </p>
-          <a
-            href="https://api.whatsapp.com/send?phone=6281339691260"
-            class="btn btn-primary mt-5">
+          <a href="http://wa.me/6281339691260" class="btn btn-primary mt-5">
             I need data
           </a>
           <a
-            href="https://api.whatsapp.com/send?phone=6281339691260"
+            href="http://wa.me/6281339691260"
             class="btn btn-outline-secondary mt-5 ms-3">
             I need web development
           </a>

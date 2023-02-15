@@ -7,8 +7,9 @@
             Best Technology Service For You In 4.0 in The World
           </h1>
           <p class="mt-3 fw-light">
-            A website that serves services in the form of Development<br />
-            to Web Scraping services
+            Let's build something great together. Hire our expert team of
+            software professionals today and take your business to the next
+            level.
           </p>
           <a href="http://wa.me/6281339691260" class="btn btn-primary mt-5">
             I need data

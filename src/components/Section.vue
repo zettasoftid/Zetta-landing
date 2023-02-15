@@ -16,10 +16,11 @@
         <div class="card-body">
           <h5 class="card-title">Data Extraction Service</h5>
           <p class="card-text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-            orci quis massa non mi, sed iaculis leo aenean.
+            Our data extraction service provides accurate and reliable insights
+            into customer, competitor, and industry data. Our advanced tools and
+            flexible solutions help you stay ahead of the competition.
           </p>
-          <a href="#" class="btn btn-content">Learn more</a>
+          <a href="#" class="btn btn-content mt-5">Learn more</a>
         </div>
       </div>
       <div class="card my-4 web-analysis" style="width: 18rem">
@@ -30,8 +31,11 @@
         <div class="card-body">
           <h5 class="card-title">Web Analysis</h5>
           <p class="card-text">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer
-            orci quis massa non mi, sed iaculis leo aenean.
+            Our web analysis and security service maximizes your website's
+            potential by resolving performance issues and safeguarding it from
+            cyber threats. With tailored solutions and actionable
+            recommendations, we help you achieve your business goals. Let us
+            help you get the most out of your website.
           </p>
           <a href="#" class="btn btn-content mt-4">Learn more</a>
         </div>
@@ -44,8 +48,11 @@
         <div class="card-body">
           <h5 class="card-title">Smart Browser</h5>
           <p class="card-text">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            Smart Browser is a user-friendly and efficient web browsing service
+            that offers advanced features such as intelligent search, content
+            filtering, and personalized recommendations. It provides a fast and
+            secure browsing experience across various devices and is continually
+            updated for optimal performance.
           </p>
           <a href="#" class="btn btn-content mt-4">Learn more</a>
         </div>
@@ -59,10 +66,13 @@
         <div class="card-body">
           <h5 class="card-title">UI/UX Design</h5>
           <p class="card-text">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            We can help you create a stunning, user-friendly digital experience
+            that reflects your brand's essence. Our UI/UX service includes
+            everything from idea conception to final product delivery, ensuring
+            that your digital experience is not only visually appealing but also
+            easy to use and on-brand.
           </p>
-          <a href="#" class="btn btn-content">Learn more</a>
+          <a href="#" class="btn btn-content mt-5">Learn more</a>
         </div>
       </div>
       <div class="card my-4 webdev" style="width: 18rem">
@@ -73,10 +83,14 @@
         <div class="card-body">
           <h5 class="card-title">Web Development</h5>
           <p class="card-text">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            Our expert web development service creates high-quality, visually
+            stunning websites that engage customers and drive business growth.
+            Using the latest technologies and best practices, we deliver
+            on-brand web solutions that deliver results. From front-end design
+            to back-end development, we have the skills to build any website.
+            Let us help you make a great first impression online.
           </p>
-          <a href="#" class="btn btn-content">Learn more</a>
+          <a href="#" class="btn btn-content mt-2">Learn more</a>
         </div>
       </div>
       <div class="card my-4 mobiledev" style="width: 18rem">
@@ -87,10 +101,13 @@
         <div class="card-body">
           <h5 class="card-title">Mobile Development</h5>
           <p class="card-text">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content.
+            Get ahead with our mobile app development service. Our experienced
+            team can help create a user-friendly app that drives your business
+            forward. Using the latest technologies, we design apps that are
+            efficient, visually appealing, and tailored to your unique needs and
+            goals. Don't miss out on potential customers
           </p>
-          <a href="#" class="btn btn-content">Learn more</a>
+          <a href="#" class="btn btn-content mt-5">Learn more</a>
         </div>
       </div>
     </div>

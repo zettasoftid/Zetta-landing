@@ -1,12 +1,12 @@
 <template>
-  <div class="container-xxl my-3">
+  <!-- <div class="container-xxl my-3">
     <div class="row">
       <div class="section-content mb-2">
         <h2 class="section-title">Why should Zettasoft?</h2>
-        <!-- <p>
+        <p>
           A website that serves services in the form of Development to Web
           Scraping services
-        </p> -->
+        </p>
       </div>
 
       <div class="card my-4 uiux" style="width: 18rem">
@@ -52,7 +52,7 @@
         </div>
       </div>
     </div>
-  </div>
+  </div> -->
 </template>
 
 <script>
@@ -62,7 +62,7 @@
 </script>
 
 <style>
-  .container {
+  /* .container {
     margin-bottom: 60px;
   }
   .section-content {
@@ -116,5 +116,10 @@
   .webdev {
     margin-left: 170px;
     margin-right: 150px;
-  }
+  } */
+
+  /* .testimonial-section {
+    background-color: #f9f9f9;
+    padding: 50px 0;
+  } */
 </style>

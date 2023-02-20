@@ -10,7 +10,7 @@
     <a href="https://www.linkedin.com/in/zetta-indonesia/"
       ><img src="../assets/svg/LinkedIn.svg" alt="LinkedIn zetta"
     /></a>
-    <a href="https://medium.com/@zettasoft.id"
+    <a href="https://blog.zettasoft.id/"
       ><img src="../assets/svg/Medium.svg" alt="Medium zetta"
     /></a>
     <a href="https://www.youtube.com/@zetta3379"

@@ -46,7 +46,7 @@
           class="card-img-top"
           alt="uiux-icon" />
         <div class="card-body">
-          <h5 class="card-title">Smart Browser</h5>
+          <h5 class="card-title">AI Integration</h5>
           <p class="card-text">
             Smart Browser is a user-friendly and efficient web browsing service
             that offers advanced features such as intelligent search, content

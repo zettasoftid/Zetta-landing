@@ -1,7 +1,7 @@
 <template>
   <div class="container my-5">
     <div class="text">You can see our media:</div>
-    <a href="https://github.com/zettaSoftware"
+    <a href="https://github.com/zettasoftid"
       ><img src="../assets/svg/Github.svg" alt="github zetta"
     /></a>
     <a href="https://www.instagram.com/zettasoft_id/"
